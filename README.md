@@ -1,2 +1,2 @@
 # projeto-one-piece
- mini-projeto de one piece, um site
+ mini-projeto de one piece, utilizando HTML, CSS e Javascript.
